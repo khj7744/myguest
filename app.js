@@ -34,5 +34,5 @@ app.get('/test', function(req, res){
 });
 
 app.get('/html', function(req, res){
-	res.send("<h1>nodejs 서버가 보내준 html</h1>");
+	res.send("<h1>codio.com 서버가 보내준 html</h1>");
 });
